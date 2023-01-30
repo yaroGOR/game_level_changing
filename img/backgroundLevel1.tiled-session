@@ -1,0 +1,34 @@
+{
+    "activeFile": "/Users/98yaroslavgorban/Downloads/drive-download-20230130T115350Z-001/maps/Level 1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "/Users/98yaroslavgorban/Downloads/drive-download-20230130T115350Z-001/maps/Level 1.tmx": {
+            "scale": 0.7926,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 688.2412313903609,
+                "y": 417.6129195054251
+            }
+        },
+        "/Users/98yaroslavgorban/Downloads/drive-download-20230130T115350Z-001/tilesets/Decorations.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/98yaroslavgorban/Downloads/drive-download-20230130T115350Z-001/tilesets/Main.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/98yaroslavgorban/Downloads/drive-download-20230130T115350Z-001/tilesets/Misc.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/98yaroslavgorban/Desktop/LeraGame",
+    "map.lastUsedExportFilter": "Все файлы (*)",
+    "openFiles": [
+        "/Users/98yaroslavgorban/Downloads/drive-download-20230130T115350Z-001/maps/Level 1.tmx"
+    ],
+    "project": "backgroundLevel1.tiled-project",
+    "recentFiles": [
+        "/Users/98yaroslavgorban/Downloads/drive-download-20230130T115350Z-001/maps/Level 1.tmx"
+    ]
+}
