@@ -9,7 +9,8 @@ Try to create sprite animations
 
 ## Screenshots
 
-![Снимок экрана 2023-02-01 в 14.21.43.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d4d468f-0dc1-41d5-9657-e4a7a7560e19/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-01_%D0%B2_14.21.43.png)
+![install.png](https://github.com/yaroGOR/game_level_changing/blob/main/install.png?raw=true![image](https://user-images.githubusercontent.com/36842297/216044981-0dff0381-3b98-4d0c-bb8d-3fd5f4be20f2.png)
+)
 
 ![Снимок экрана 2023-02-01 в 14.21.33.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41ba73a4-7e2f-4ff2-b09d-24294838ca0d/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA_%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0_2023-02-01_%D0%B2_14.21.33.png)
 
