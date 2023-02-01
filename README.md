@@ -1,5 +1,9 @@
 # game_level_changing
 ## Context
+Tasks
+Screenshots
+How to launch
+Resourses
 
 ## Tasks
 
