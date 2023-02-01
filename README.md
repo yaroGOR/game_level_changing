@@ -12,7 +12,8 @@ Try to create sprite animations
 
 
 ![screen2.png](https://github.com/yaroGOR/game_level_changing/blob/main/screen2.png?raw=true![image](https://user-images.githubusercontent.com/36842297/216045289-a8eecfdd-608b-4784-9926-96b73ce9272b.png))
-![screen1.png] (https://github.com/yaroGOR/game_level_changing/blob/main/screen1.png?raw=true)
+![screen1.png] [(https://github.com/yaroGOR/game_level_changing/blob/main/screen1.png?raw=true)](https://github.com/yaroGOR/game_level_changing/blob/main/screen1.png?raw=true)![image](https://user-images.githubusercontent.com/36842297/216045737-55909501-776f-4f79-8d83-bcb741bfc506.png)
+
 
 ## How to launch
 
